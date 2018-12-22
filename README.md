@@ -1,44 +1,16 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Lord of the Rings Clicky Game
 
-## Available Scripts
+### What the project does
+This project allows the user to play a memory game in which they must click on as many characters as possible while they shuffle position randomly, without clicking on any more than once.  If a character is clicked on a second time, a game over message appears and the user can try again.
 
-In the project directory, you can run:
+### Why the project is useful
+The clicky game is intended as a fun, yet challenging game for users.  It exercises memory skills in an enjoyable way.
 
-### `npm start`
+### How users can get started with the project
+The method of playing the game is simple.  Click on characters that you haven't clicked on before to increase your score.  If your score is high enough, it will become your top score.
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Where users can get help with your project
+Please contact me at nniesel90@gmail.com if you have any questions about this project.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Who maintains and contributes to the project
+At this time, all work has been done by Nathan Niesel.
