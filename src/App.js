@@ -26,18 +26,18 @@ class App extends Component {
 
   state = {
     images: [
-      { file: "Aragorn.JPG", key: 1, clicked: false },
-      { file: "Arwen.JPG", key: 2, clicked: false  },
-      { file: "Elrond.JPG", key: 3, clicked: false  },
-      { file: "Faramir.PNG", key: 4, clicked: false  },
-      { file: "Frodo.PNG", key: 5, clicked: false  },
-      { file: "Gandalf.JPG", key: 6, clicked: false  },
-      { file: "Gimli.PNG", key: 7, clicked: false  },
-      { file: "Gollum.PNG", key: 8, clicked: false  },
-      { file: "Legolas.PNG", key: 9, clicked: false  },
-      { file: "Pippin.JPG", key: 10, clicked: false  },
-      { file: "Saruman.JPG", key: 11, clicked: false  },
-      { file: "Sauron.JPG", key: 12, clicked: false  }
+      { file: "Aragorn.jpg", key: 1, clicked: false },
+      { file: "Arwen.jpg", key: 2, clicked: false  },
+      { file: "Elrond.jpg", key: 3, clicked: false  },
+      { file: "Faramir.png", key: 4, clicked: false  },
+      { file: "Frodo.png", key: 5, clicked: false  },
+      { file: "Gandalf.jpg", key: 6, clicked: false  },
+      { file: "Gimli.png", key: 7, clicked: false  },
+      { file: "Gollum.png", key: 8, clicked: false  },
+      { file: "Legolas.png", key: 9, clicked: false  },
+      { file: "Pippin.jpg", key: 10, clicked: false  },
+      { file: "Saruman.jpg", key: 11, clicked: false  },
+      { file: "Sauron.jpg", key: 12, clicked: false  }
     ],
     counter: 0,
     top: 0,
