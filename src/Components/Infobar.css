@@ -1,0 +1,25 @@
+.info {
+    height: 200px;
+    background-image: url(info-back.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-top: 0px;
+    position: relative;
+}
+
+.middle {
+    text-align: center;
+    margin-top: 0px;
+}
+
+.vertical-middle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 300px;
+}
+
+.status {
+    text-align: center;
+}

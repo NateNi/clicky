@@ -1,0 +1,45 @@
+.logo {
+  margin-left: auto;
+  margin-right: auto;
+  height: 60px;
+}
+
+h4 {
+  font-family: "UnifrakturCook", cursive;
+  font-size: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 200px;
+  color: rgba(255, 255, 0, 0.63);
+}
+
+.alignleft {
+  float: left;
+  width: 33.33333%;
+  text-align: left;
+}
+
+.aligncenter {
+  float: left;
+  width: 33.33333%;
+  text-align: center;
+  height: 60px;
+}
+
+.alignright {
+  float: right;
+  width: 33.33333%;
+  text-align: right;
+}
+
+@media only screen and (max-width: 600px) {
+    .aligncenter {
+      display: none;
+    }
+    .alignleft {
+        width: 50%;
+      }
+      .alignright {
+        width: 50%;
+      }
+  }
